@@ -1,0 +1,5 @@
+{
+    "port": "80",
+    "errorhtml": "/webpage/error.html",
+    "crabdata": "/data/crab.mp4"
+}
